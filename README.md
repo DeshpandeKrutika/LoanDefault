@@ -8,11 +8,11 @@ The dataset contains information to predict if the customer will default on a lo
 
 * Statistical Modeling
 * Hypothesis Testing
-* T- test
-* p- value analysis
+* T-test
+* p-value analysis
 * Wilcoxon Rank Sum Test
 * Chi-Square Test
-* TukeyHSD Test
+* Tukey HSD Test
 * Regression Analysis
 * Probability Analysis
 * ROCR Curve Analysis
